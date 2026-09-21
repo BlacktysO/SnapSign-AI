@@ -8,8 +8,6 @@ The system uses a webcam to capture hand movements, extracts hand landmarks, cla
 
 The architecture is designed with Snapdragon-powered HP PCs as the target deployment platform, with a planned Qualcomm AI Hub/QNN-optimized hand-perception path.
 
-> **Note:** The current prototype was developed and tested on a non-Snapdragon Windows PC. It does not claim Snapdragon NPU execution. Snapdragon deployment and performance measurements would need to be validated on compatible Snapdragon hardware.
-
 ## Features
 
 - Real-time webcam hand tracking
