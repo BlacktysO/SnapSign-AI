@@ -1,0 +1,10 @@
+# SnapSign AI - recommended Python 3.11 on Windows
+opencv-python>=4.10,<5
+mediapipe==0.10.21
+numpy>=1.26,<3
+scikit-learn>=1.5,<2
+joblib>=1.4,<2
+pyttsx3>=2.98,<3
+pandas>=2.2,<3
+matplotlib>=3.9,<4
+Pillow>=10,<12
